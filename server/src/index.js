@@ -28,7 +28,7 @@ app.disable('x-powered-by');
 // Allowed Frontend Origins
 const defaultOrigins = [
   'http://localhost:5173',
-  'https://bookleaf-author-support-mu9pez0k9.vercel.app',
+  'https://bookleaf-author-support-chi.vercel.app',
 ];
 
 const allowedOrigins = process.env.CLIENT_ORIGIN
